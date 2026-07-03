@@ -49,3 +49,6 @@ npm install
 2. Ejecutar la suite de pruebas con reporte de cobertura:
 
 npm test
+
+## Documentación y Evidencias
+Se puede ver el reporte oficial con todas las capturas de pantalla de los tests, Docker y Swagger en la carpeta Evidencias/ del repositorio
