@@ -10,7 +10,7 @@ Este proyecto es la entrega final del curso de Programación Backend. Incluye un
 
 ## Estructura del Proyecto
 
-
+'''text
 proyecto-final-backend/
 ├── src/
 │   ├── app.js               # Configuración de Express y middlewares
