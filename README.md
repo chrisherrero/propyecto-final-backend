@@ -4,7 +4,7 @@ Este proyecto es la entrega final del curso de Programación Backend. Incluye un
 
 ## URLs del Proyecto
 
-**Repositorio de Código:** [TU_URL_DE_GITHUB]
+**Repositorio de Código:** https://github.com/chrisherrero/propyecto-final-backend/tree/main
 **Imagen en DockerHub:** https://hub.docker.com/r/babalu1808/api-adopciones
 
 
